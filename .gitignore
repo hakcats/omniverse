@@ -1,0 +1,6 @@
+# dont push readme as there might be sensitive data
+README.md
+.idea
+data/*
+models/*
+tmp/*
